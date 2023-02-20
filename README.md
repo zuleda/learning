@@ -14,7 +14,7 @@ This repository loosely reflects [GitLab's Product Management Learning and Devel
 | :------------------------------------------------------------------------------------------------------------------------- | :--------: |
 | **Resource**                                                                                                               | **Status** |
 | [Sign up for Anki](https://ankiweb.net/account/register) and [download the desktop application](https://apps.ankiweb.net/) |     ✔️     |
-| [How To Use Anki: An Efficient Tutorial For Beginners](https://leananki.com/how-to-use-anki-tutorial/)                     |     ❌     |
+| [How To Use Anki: An Efficient Tutorial For Beginners](https://leananki.com/how-to-use-anki-tutorial/)                     |     ✔️     |
 
 <br>
 
