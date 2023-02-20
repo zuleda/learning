@@ -21,7 +21,7 @@ This repository loosely reflects [GitLab's Product Management Learning and Devel
 | [Obsidian](https://obsidian.md/) <br> In Obsidian, making and following connections is frictionless. Tend to your notes like a gardener; at the end of the day, sit back and marvel at your own knowledge graph. | |
 | :----------------------------------------------------------------------------------------------------------------------------- | :--------: |
 | **Resource**                                                                                                                   | **Status** |
-| [Sign up for Obsidian](https://obsidian.md/account) and [download the desktop application](https://obsidian.md/download)       |     ❌     |
+| [Sign up for Obsidian](https://obsidian.md/account) and [download the desktop application](https://obsidian.md/download)       |     ✔️     |
 |  `0:12:26` [Obsidian for Beginners (1/6)](https://www.youtube.com/watch?v=QgbLb6QCK88&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) |     ❌     |
 |  `0:10:07` [Obsidian for Beginners (2/6)](https://www.youtube.com/watch?v=bBk2kg8Gm_U&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) |     ❌     |
 |  `0:07:17` [Obsidian for Beginners (3/6)](https://www.youtube.com/watch?v=_2z-7D4bQEA&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) |     ❌     |
