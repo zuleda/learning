@@ -24,7 +24,7 @@ This repository loosely reflects [GitLab's Product Management Learning and Devel
 | [Sign up for Obsidian](https://obsidian.md/account) and [download the desktop application](https://obsidian.md/download)       |     ✔️     |
 |  `0:12:26` [Obsidian for Beginners (1/6)](https://www.youtube.com/watch?v=QgbLb6QCK88&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) |     ✔️     |
 |  `0:10:07` [Obsidian for Beginners (2/6)](https://www.youtube.com/watch?v=bBk2kg8Gm_U&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) |     ✔️     |
-|  `0:07:17` [Obsidian for Beginners (3/6)](https://www.youtube.com/watch?v=_2z-7D4bQEA&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) |     ❌     |
+|  `0:07:17` [Obsidian for Beginners (3/6)](https://www.youtube.com/watch?v=_2z-7D4bQEA&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) |     ✔️     |
 |  `0:08:25` [Obsidian for Beginners (4/6)](https://www.youtube.com/watch?v=Ca5ebhAYMm8&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) |     ❌     |
 |  `0:07:16` [Obsidian for Beginners (5/6)](https://www.youtube.com/watch?v=cDcoBMVJsvk&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) |     ❌     |
 |  `0:03:09` [Obsidian for Beginners (6/6)](https://www.youtube.com/watch?v=bt7JPYKTrSU&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) |     ❌     |
